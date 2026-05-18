@@ -80,18 +80,7 @@ AI-driven web application that converts PDF resumes into deployment-ready portfo
 
 </div>
 
----
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=electro-geek&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=electro-geek&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=electro-geek&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</div>
 
 ---
 
