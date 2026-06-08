@@ -117,9 +117,9 @@ export const experience = [
 export const projects = [
   {
     name: "Kompete",
-    subtitle: "AI Competitive Intelligence Agent",
+    subtitle: "AI Research Engine for Diligence",
     description:
-      "Autonomous AI agent that researches any company and generates boardroom-ready competitive intelligence reports with SWOT analysis in under 60 seconds. Multi-agent research pipeline using Google Gemini 2.0 Flash with four parallel async agents across news, financials, reviews, and social signals.",
+      "AI research engine that produces institutional-grade diligence briefs on any company in minutes — covering market position, financial health, sentiment, and risk. Built for VCs, hedge funds, and private equity firms that need to screen targets and assess risk fast, without burning analyst hours.",
     tech: ["FastAPI", "Next.js", "Google Gemini", "SSE", "WeasyPrint", "Python"],
     url: "https://kompete.mritunjay.live",
     period: "May 2026 — Present",

@@ -28,13 +28,13 @@ const raleway = Raleway({
 });
 
 export const metadata: Metadata = {
-  title: "Mritunjay Sharma — Backend & AI Engineer",
+  title: "Mritunjay Sharma",
   description:
     "A backend-focused adventurer building scalable distributed systems, high-performance real-time APIs, and AI-powered products.",
   keywords: ["Backend Engineer", "AI Engineer", "Python", "Go", "FastAPI", "Django", "Bengaluru"],
   authors: [{ name: "Mritunjay Sharma" }],
   openGraph: {
-    title: "Mritunjay Sharma — Backend & AI Engineer",
+    title: "Mritunjay Sharma",
     description:
       "A backend-focused adventurer building scalable distributed systems and AI-powered products.",
     type: "website",
