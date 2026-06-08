@@ -65,7 +65,7 @@ export default function Hero() {
 
         {/* The Name — this IS the logo */}
         <h1 className="hero-name animate-entry mb-5">
-          Mritunjay <span style={{ color: "var(--color-brand)" }}>Sharma</span>
+          MritunJay <span style={{ color: "var(--color-brand)" }}>Sharma</span>
         </h1>
 
         {/* Role — typewriter */}

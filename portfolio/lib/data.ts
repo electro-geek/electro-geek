@@ -1,3 +1,7 @@
+import kompeteImg from "@/media/projects/kompete.png";
+import prepstudioImg from "@/media/projects/prepstudio.png";
+import uiwizImg from "@/media/projects/uiwiz.png";
+
 export const identity = {
   name: "Mritunjay Sharma",
   role: "Backend Engineer",
@@ -120,6 +124,7 @@ export const projects = [
     url: "https://kompete.mritunjay.live",
     period: "May 2026 — Present",
     featured: true,
+    image: kompeteImg,
     highlights: [
       {
         label: "Architecture",
@@ -140,6 +145,7 @@ export const projects = [
     url: "https://prepstudio.mritunjay.live",
     period: "May 2026 — Present",
     featured: true,
+    image: prepstudioImg,
     highlights: [
       {
         label: "Voice Engine",
@@ -169,7 +175,8 @@ export const projects = [
     tech: ["TypeScript", "Django", "Sandpack", "Gemini API", "Firebase"],
     url: "https://www.uiwiz.live",
     period: "Jan 2026 — Present",
-    featured: false,
+    featured: true,
+    image: uiwizImg,
   },
   {
     name: "PortfolioMaker",
