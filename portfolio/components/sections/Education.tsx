@@ -17,7 +17,7 @@ export default function Education() {
 
       <div className="max-w-6xl mx-auto">
         <motion.div variants={revealUp} initial={initial} whileInView="visible" viewport={vp} className="mb-14">
-          <div className="section-label">05 · Lore & Records</div>
+          <div className="section-label">06 · Lore & Records</div>
           <h2 className="heading">
             Scrolls &amp; <em>Lore</em>
           </h2>

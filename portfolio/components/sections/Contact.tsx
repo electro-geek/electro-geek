@@ -23,7 +23,7 @@ export default function Contact() {
 
       <div className="max-w-5xl mx-auto">
         <motion.div variants={revealUp} initial={initial} whileInView="visible" viewport={vp} className="mb-12">
-          <div className="section-label">06 · Rest at the Fire</div>
+          <div className="section-label">07 · Rest at the Fire</div>
           <h2 className="heading">
             Make <em>Camp</em>
           </h2>
